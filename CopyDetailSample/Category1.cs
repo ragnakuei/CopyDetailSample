@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp13
+namespace CopyDetailSample
 {
     public class Category1
     {

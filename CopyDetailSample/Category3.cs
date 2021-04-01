@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace ConsoleApp13
+namespace CopyDetailSample
 {
-    public class Category2
+    public class Category3
     {
         public int    Id            { get; set; }
         public Guid   Guid          { get; set; }
         public string Name          { get; set; }
-        public Guid?  Category1Guid { get; set; }
+        public Guid?  Category2Guid { get; set; }
     }
 }

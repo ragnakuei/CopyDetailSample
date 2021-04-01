@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace ConsoleApp13
+namespace CopyDetailSample
 {
     public class BoxDto
     {

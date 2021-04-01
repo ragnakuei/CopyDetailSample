@@ -8,7 +8,7 @@ using Dapper;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 
-namespace ConsoleApp13
+namespace CopyDetailSample
 {
     public class CopyProcessService : IHostedService
     {

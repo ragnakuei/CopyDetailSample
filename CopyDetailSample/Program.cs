@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace ConsoleApp13
+namespace CopyDetailSample
 {
     class Program
     {
